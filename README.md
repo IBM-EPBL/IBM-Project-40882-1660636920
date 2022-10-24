@@ -55,10 +55,10 @@ KRISHNASAMY COLLEGE OF ENGINEERING AND TECHNOLOGY
 
 
 ## Project Design & Planning
-- [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
-- [Project Design Phase 1](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201)
-- [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II)
-- [Project Planning](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
+- [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-40882-1660636920/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
+- [Project Design Phase 1](https://github.com/IBM-EPBL/IBM-Project-40882-1660636920/tree/main/Project%20Design%20%26%20Planning/Project%20Phase%20I)
+- [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-40882-1660636920/tree/main/Project%20Design%20%26%20Planning/Project%20Phase%20II)
+- [Project Planning](https://github.com/IBM-EPBL/IBM-Project-40882-1660636920/tree/main/Project%20Design%20%26%20Planning/Project%20Planing)
 
 ## Tech Stack
 
@@ -73,10 +73,10 @@ KRISHNASAMY COLLEGE OF ENGINEERING AND TECHNOLOGY
 
 ## Authors
 
-- [@ANANTHAKRISHNAN V](https://github.com/Vkparamesh)
-- [@SYEDFAHAD M](https://github.com/MANOJADHITHYAN)
-- [@THILAGARAJ R](https://github.com/kalaitamizhan)
-- [@THAMARAISELVAN T R ](https://github.com/mohanrajdoctor)
+- [@ANANTHAKRISHNAN V](https://github.com/Shiny-Hunter)
+- [@SYEDFAHAD M]()
+- [@THILAGARAJ R]()
+- [@THAMARAISELVAN T R ]()
 
 
 ## Feedback
