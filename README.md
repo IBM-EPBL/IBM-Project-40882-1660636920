@@ -49,7 +49,7 @@ KRISHNASAMY COLLEGE OF ENGINEERING AND TECHNOLOGY
 ## Assignment  
 
  - [Team Leader : ANANTHAKRISHNAN V](https://github.com/IBM-EPBL/IBM-Project-40882-1660636920/tree/main/Assignments/Ananthakrishnan%20Venkataramani%20(TL))
- - [Team member : SYED FAHAD M](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20MANOJ%20ADHITHYAN%20A)
+ - [Team member : SYED FAHAD M](https://github.com/IBM-EPBL/IBM-Project-40882-1660636920/tree/main/Assignments/Syed%20Fahad%20M)
  - [Team member : THILAGARAJ R](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20MOHANRAJ%20M)
  - [Team member : THAMARAISELVAN T R](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20DAYANITHI%20S)
 
