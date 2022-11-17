@@ -1,7 +1,5 @@
 # IBM-Project-40882-1660636920
 
-# IBM-Project-40862-1660636795
-
 # Skill and Job Recommender Application 
 
 
